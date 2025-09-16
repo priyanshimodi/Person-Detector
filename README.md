@@ -1,6 +1,7 @@
 # Person Detector (YOLOv8 Real-Time Object Detection) 
 
 This project performs real-time object detection using the YOLOv8 model by Ultralytics.
+
 It allows detection of people and other objects in videos or through webcam input, drawing bounding boxes and saving results. 
 
 ---
