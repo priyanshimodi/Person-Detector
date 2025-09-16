@@ -19,6 +19,7 @@ It allows detection of people and other objects in videos or through webcam inpu
 
 ## 📂 Project Structure  
 Person-Detector
+```bash
 ├── app.py                     # Main script to run detection
 ├── detect.py                  # Detection logic (runs YOLO,processes frames)
 ├── requirements.txt           # Python dependencies
@@ -27,7 +28,7 @@ Person-Detector
 │   └── test.mp4
 ├── outputs/                   # Output video 
 │   └──  result.mp4
-
+```
 ---
 
 ## ⚡ How It Works  
